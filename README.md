@@ -1,4 +1,3 @@
-# Hello_world
-Learning Git-Hub commands and essentials
+# SQL Code
 
---The changes I made will reflect here. 
+Select * fromn table1;
